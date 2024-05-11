@@ -1,16 +1,29 @@
-### Hi there 👋
+Welcome to my GitHub profile! 👋
 
-<!--
-**0xfe1/0xfe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Frontend Development (HTML, CSS, JavaScript)
+- Backend Development (PHP, Node.js)
+- Full-Stack Development
+- Web Design
+- Web Development Frameworks (e.g., React, Vue.js, Angular)
+- Python Programming
+- Java Development
+- Mobile App Development (e.g., Android Development with Java)
+- Server-Side Scripting (PHP)
+- Node.js Ecosystem (e.g., Express.js)
+- Web APIs and RESTful Services
+- Database Management (SQL, NoSQL)
+- Software Engineering
+- Object-Oriented Programming (Java, C++)
+- Algorithms and Data Structures
+- Cross-Platform Development (e.g., Electron)
+- Game Development (using JavaScript, Java, or C++)
+- Network Programming
+- Scripting and Automation (Python)
+- System Administration and Shell Scripting (Linux)
+- C++ Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+
+- via mail
