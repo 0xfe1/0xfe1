@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! 👋
 
-## About Me
+## About Me (Interests)
 
 - Frontend Development (HTML, CSS, JavaScript)
 - Backend Development (PHP, Node.js)
